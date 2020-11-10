@@ -11,4 +11,4 @@ spec:
   type: service
   lifecycle: production
   owner: guest
-backstage.io/techdocs-ref: 
+
