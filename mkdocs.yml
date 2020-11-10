@@ -1,7 +1,7 @@
 site_name: 'order-docs'
 
 nav:
-  - Home: index.md
+  - Home: docs/index.md
 
 plugins:
   - techdocs-core
